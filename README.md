@@ -10,6 +10,8 @@
 - **Contact Management**: Securely store and manage friends' public keys
 - **Large File Support**: Automatic chunking for messages >190 bytes
 - **Audit Trail**: Detailed timestamped operation logging
+- **DANGER**: Don't send the encripted message via whatsapp because it
+  eliminates some special character essentials for the decription
 
 ### Installation
 ```bash
