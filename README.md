@@ -21,7 +21,7 @@ cd SecureCrypt-Messenger
 pip install cryptography
 
 # Run the application
-python crypto_app.py
+python main.py
 
 
 🛠️ Basic Usage
