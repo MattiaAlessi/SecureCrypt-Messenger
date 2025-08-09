@@ -31,7 +31,7 @@ Generate your keys on first launch
 
 Add contacts via the "Manage Friends" menu
 
-Encrypt messages for yourself or your contacts
+Encrypt messages for your contacts
 
 Decrypt received messages with your private key
 
