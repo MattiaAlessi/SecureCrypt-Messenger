@@ -14,8 +14,8 @@
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/securecrypt-messenger.git
-cd securecrypt-messenger
+git clone https://github.com/MattiaAlessi/SecureCrypt-Messenger
+cd SecureCrypt-Messenger
 
 # Install dependencies
 pip install cryptography
